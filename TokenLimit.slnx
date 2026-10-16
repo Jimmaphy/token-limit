@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Source/">
+    <Project Path="Source/TokenLimit/TokenLimit.fsproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/TokenLimit.Tests/TokenLimit.Tests.fsproj" />
+  </Folder>
+</Solution>
